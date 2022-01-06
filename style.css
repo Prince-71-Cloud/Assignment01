@@ -1,0 +1,216 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Roboto Slab", serif;
+}
+.first {
+  display: flex;
+  margin-bottom: 50px;
+  margin: 0px 270px;
+}
+.left-first {
+  margin: 20px;
+  padding: 20px 20px;
+  align-items: left;
+}
+.left-first h1 {
+  text-align: left;
+  text-transform: uppercase;
+}
+.left-first .line {
+  font-size: 44px;
+  border-left: 5px solid rgb(22, 26, 29);
+  border-radius: 5px;
+  line-height: 1;
+}
+.left-first .line h1 {
+  padding-left: 5px;
+}
+.left-first p {
+  margin: 20px 0px;
+}
+.left-first span {
+  color: orangered;
+}
+.left-first {
+  width: 50%;
+}
+.hire-me {
+  text-decoration: none;
+  color: white;
+  background-color: #4b4b4b;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.right-first {
+  width: 50%;
+  display: block;
+}
+.right-first img {
+  border-radius: 50%;
+  height: 450px;
+  width: 450px;
+  align-items: right;
+  /* margin-left: 210px; */
+}
+.second {
+  display: flex;
+  margin: 30px 270px;
+  padding: 20px;
+}
+.second .mission {
+  width: 33.33%;
+  padding: 10px 20px;
+  margin: 20px 5px;
+  border: 2px solid #4b4b4b;
+  box-shadow: 0 0 10px black;
+  border-radius: 5px;
+  text-align: center;
+}
+.second .mission .mission-img {
+  width: 200px;
+  height: 200px;
+}
+.second .vission {
+  width: 33.33%;
+  padding: 10px 20px;
+  margin: 20px 5px;
+  border: 2px solid #4b4b4b;
+  box-shadow: 0 0 10px black;
+  border-radius: 5px;
+  text-align: center;
+}
+.second .vission .vission-img {
+  width: 200px;
+  height: 200px;
+}
+.second .goals {
+  width: 33.33%;
+  padding: 10px 20px;
+  margin: 20px 5px;
+  border: 2px solid #4b4b4b;
+  box-shadow: 0 0 10px black;
+  border-radius: 5px;
+  text-align: center;
+}
+.second .goals .goals-img {
+  width: 200px;
+  height: 200px;
+}
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bolder;
+  font-size: 30px;
+  text-transform: uppercase;
+  padding-top: 15px;
+}
+h1 span {
+  color: orangered;
+}
+.third {
+  display: flex;
+  margin: 10px 40px;
+  padding: 20px;
+}
+.left-third {
+  width: 50%;
+  padding: 10px;
+  margin-left: 220px;
+}
+.right-third {
+  width: 50%;
+  padding: 20px;
+  margin-right: 220px;
+  margin-left: 270px;
+}
+.right-third p {
+  margin-bottom: 20px;
+}
+.left-third img {
+  width: 300px;
+  height: 300px;
+}
+
+.read-the-documentaiton {
+  text-decoration: none;
+  color: white;
+  background-color: #4b4b4b;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.fourth {
+  display: flex;
+}
+.left-fourth {
+  width: 50%;
+  padding: 20px;
+  margin-left: 270px;
+}
+.right-fourth {
+  width: 50%;
+  margin-right: 300px;
+}
+.left-fourth p {
+  margin-bottom: 20px;
+}
+.right-fourth img {
+  width: 300px;
+  height: 300px;
+  margin-left: 300px;
+}
+.five {
+  display: flex;
+}
+.left-five {
+  width: 50%;
+  margin-left: 270px;
+  padding: 20px;
+}
+.right-five {
+  width: 50%;
+  padding: 20px;
+  margin-right: 260px;
+  margin-left: 220px;
+}
+.right-five p {
+  margin-bottom: 20px;
+}
+.left-five img {
+  width: 300px;
+  height: 300px;
+}
+footer {
+  background-color: #0b0d17;
+  color: white;
+  text-align: center;
+}
+footer h3 {
+  padding: 20px;
+  text-transform: uppercase;
+  font-style: italic;
+}
+footer span {
+  color: orangered;
+  margin: 10px;
+  font-size: 20px;
+}
+footer h5 {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.second .mission {
+  background-color: rgb(221, 230, 230);
+}
+.second .vission {
+  background-color: rgb(207, 229, 253);
+}
+.second .goals {
+  background-color: rgb(241, 241, 255);
+}
